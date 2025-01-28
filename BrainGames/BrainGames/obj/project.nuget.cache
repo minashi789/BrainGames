@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+NmxTcenkfxLK+uwhaN1etncp9Un8IB4HbMlSwLEGpYpl2n4Fl4eKa3kHj/Plv4wdOI3uT9Oc/jdR+QDWc6/A==",
+  "success": true,
+  "projectFilePath": "D:\\Учёба\\Методология разработки\\BrainGames\\BrainGames\\BrainGames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\иван\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\иван\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

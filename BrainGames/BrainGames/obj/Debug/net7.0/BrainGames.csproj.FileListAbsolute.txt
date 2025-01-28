@@ -1,0 +1,15 @@
+D:\Учёба\Методология разработки\BrainGames\BrainGames\bin\Debug\net7.0\BrainGames.exe
+D:\Учёба\Методология разработки\BrainGames\BrainGames\bin\Debug\net7.0\BrainGames.deps.json
+D:\Учёба\Методология разработки\BrainGames\BrainGames\bin\Debug\net7.0\BrainGames.runtimeconfig.json
+D:\Учёба\Методология разработки\BrainGames\BrainGames\bin\Debug\net7.0\BrainGames.dll
+D:\Учёба\Методология разработки\BrainGames\BrainGames\bin\Debug\net7.0\BrainGames.pdb
+D:\Учёба\Методология разработки\BrainGames\BrainGames\obj\Debug\net7.0\BrainGames.csproj.AssemblyReference.cache
+D:\Учёба\Методология разработки\BrainGames\BrainGames\obj\Debug\net7.0\BrainGames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Методология разработки\BrainGames\BrainGames\obj\Debug\net7.0\BrainGames.AssemblyInfoInputs.cache
+D:\Учёба\Методология разработки\BrainGames\BrainGames\obj\Debug\net7.0\BrainGames.AssemblyInfo.cs
+D:\Учёба\Методология разработки\BrainGames\BrainGames\obj\Debug\net7.0\BrainGames.csproj.CoreCompileInputs.cache
+D:\Учёба\Методология разработки\BrainGames\BrainGames\obj\Debug\net7.0\BrainGames.dll
+D:\Учёба\Методология разработки\BrainGames\BrainGames\obj\Debug\net7.0\refint\BrainGames.dll
+D:\Учёба\Методология разработки\BrainGames\BrainGames\obj\Debug\net7.0\BrainGames.pdb
+D:\Учёба\Методология разработки\BrainGames\BrainGames\obj\Debug\net7.0\BrainGames.genruntimeconfig.cache
+D:\Учёба\Методология разработки\BrainGames\BrainGames\obj\Debug\net7.0\ref\BrainGames.dll
